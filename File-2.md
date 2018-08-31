@@ -1,2 +1,3 @@
 ## This is an H2 ##
-#### THis is an H4 ####
+#### This is an H4 ####
+This is [a link](http://www.google.com "Link") created through inline
