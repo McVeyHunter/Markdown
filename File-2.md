@@ -13,3 +13,7 @@ This is **bold**, *italics*, and, ~~Strikethrough~~ text.
 1. Ordered litst item one
 2. Ordered list item two
 3. Ordered list item three
+This | Is | A | Table
+:--- | :---: | :---: | ---:
+Info | Goes | In | Here
+To | Neatly | Show | It
