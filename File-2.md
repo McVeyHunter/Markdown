@@ -18,3 +18,5 @@ This is **bold**, *italics*, and, ~~Strikethrough~~ text.
 | :--- | :---: | :---: | ---: |
 | Info | Goes | In | Here |
 | To | Neatly | Show | It |
+
+[a relative link](README.md)
