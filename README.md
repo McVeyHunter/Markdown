@@ -16,4 +16,4 @@ This is a **fox**
 
 ![Fox](Fox.jpg "Fox")
 ***
-[A relative link](File-2.md)
+[A relative link to File-2](File-2.md)
