@@ -16,4 +16,4 @@ Image of a cat
 
 This is a Fox
 
-![Fox](Fox.jpg "Fox)
+![Fox](Fox.jpg "Fox")
