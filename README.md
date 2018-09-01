@@ -1,5 +1,5 @@
 # Markdown
-This is the markdown assignment for 2600.
+This is the _markdown assignment_ for 2600.
 
 ```css
 #header {
@@ -8,11 +8,11 @@ This is the markdown assignment for 2600.
         }
 ```
 ***
-Image of a cat 
+Image of a *cat* 
 
 ![Cat](https://static-cdn.123rf.com/images/v5/index-thumbnail/84170952-b.jpg "Cat")
 ***
-This is a Fox
+This is a *fox*
 
 ![Fox](Fox.jpg "Fox")
 ***
